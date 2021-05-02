@@ -10,5 +10,9 @@ jay ,has donev this again
 
 hey how are you ??\
 
+<<<<<<< HEAD
 what a game! ! really nyc game
  i love to play this
+=======
+what a game! ! not like this very hard to work 
+>>>>>>>  Developer A modified the file
