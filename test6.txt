@@ -1,2 +1,2 @@
 this is my 6th test file
-:wq
+6th test done
